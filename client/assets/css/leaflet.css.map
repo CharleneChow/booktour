@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "leaflet.css",
+	"sources": [
+		"../../scss/leaflet.scss"
+	],
+	"sourcesContent": [
+		"#map{\r\n    position: relative;\r\n    border: 1px solid black;\r\n    height: 500px;  /* or as desired */\r\n    width: 100%;  /* This means \"100% of the width of its container\", the .col-md-8 */\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,AAAA,CACA,QAAQ,CAAE,QAAQ,CAClB,MAAM,CAAE,eAAe,CACvB,MAAM,CAAE,KAAK,CACb,KAAK,CAAE,IAAI,CACd"
+}
